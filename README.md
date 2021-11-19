@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=728161454288535604)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Wexjavas=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wexjavas&show_icons=true&theme=radical)
