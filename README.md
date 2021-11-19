@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Discord](https://discord-readme-badge.vercel.app/api?id=569158273601896461)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=204620732259368960)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wexjavas&show_icons=true&theme=radical)
