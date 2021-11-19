@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=728161454288535604)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Wexjavas=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
