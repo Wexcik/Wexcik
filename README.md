@@ -1,5 +1,4 @@
 <h1 align="center">Selam 👋, Ben Wex</h1>
-<h3 align="center">Javascript geliştiricisiyim. Bildiğim dillerde HTML, PHP, JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wexsakinol&label=Profile%20views&color=0e75b6&style=flat" alt="wexsakinol" /> </p>
 
