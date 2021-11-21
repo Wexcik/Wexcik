@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkerpw&label=Profile%20views&color=0e75b6&style=flat" alt="turkerpw" /> </p>
 
-<p align="left"> <a href="https://twitter.com/turkerwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/turkerwastaken?logo=twitter&style=for-the-badge" alt="turkerpw" /></a> </p>
+<p align="left"> <a href="https://instagram.com/wexsakinol" target="blank"><img src="![image](https://user-images.githubusercontent.com/76052832/142762386-2dd6c21d-fecc-4c2f-9b4c-bb6091d6b7a0.png)" alt="wexsakinol" /></a> </p>
 
 
 - 🌱 Şuanda Öğrendiğim Diller: **Javascript, HTML, Pyhton**
