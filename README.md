@@ -20,8 +20,7 @@
 
 - 📫 E-Posta: **aktasturker@outlook.com**
 
-![Discord](https://discord.c99.nl/widget/theme-1/773265176597626950.png)<br><br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773265176597626950)](https://discord.com/users/852798440680456212)
+![Discord](https://discord.c99.nl/widget/theme-5/773265176597626950.png)<br><br>
 
 
 <h3 align="left">İletişim:</h3>
