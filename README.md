@@ -6,8 +6,6 @@
 
 - 🌱 Şuanda Öğrendiğim Diller: **Javascript, HTML, Pyhton**
 
-- 💬 Hakkımda: **Discord'a 2018'de katıldım. Bot geliştirmeye başladım ve 3 senedir bu işi yapıyorum.**
-
 - 📫 E-Posta: **wexderler@gmail.com**
 
 ![Discord](https://discord.c99.nl/widget/theme-5/773265176597626950.png)<br><br>
