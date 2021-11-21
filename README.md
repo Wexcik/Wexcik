@@ -7,18 +7,12 @@
 
 - 🔭 Moderatör: [WebmasterForum](https://webmasterforum.com.tr/)
 
-- 🌱 Şuanda Öğrendiğim Diller: **Javascript, PHP, HTML, CSS**
-
-- 👯 Geliştirici: [plasmic.cf](http://plasmic.cf/)
-
-- 🤝 Genel Sorumlu: [Blesyum](https://blesyum.com/)
-
-- 👨‍💻 Yönetici: [Wisenom](https://wisenom.com/)
+- 🌱 Şuanda Öğrendiğim Diller: **Javascript, HTML, Pyhton**
 
 
 - 💬 Hakkımda: **Discord'a 2018'de katıldım. Bot geliştirmeye başladım ve 3 senedir bu işi yapıyorum.**
 
-- 📫 E-Posta: **aktasturker@outlook.com**
+- 📫 E-Posta: **wexderler@gmail.com**
 
 ![Discord](https://discord.c99.nl/widget/theme-5/773265176597626950.png)<br><br>
 
