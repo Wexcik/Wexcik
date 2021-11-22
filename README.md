@@ -7,7 +7,7 @@
 
 - 📫 E-Posta: **wexderler@gmail.com**
 
-![Discord](https://discord.c99.nl/widget/theme-3/773265176597626950.png)<br><br> 
+![Discord](https://discord.c99.nl/widget/theme-5/728161454288535604.png )<br><br> 
 ![Discord](https://discord.c99.nl/widget/theme-5/773265176597626950.png)<br><br> 
 
 
