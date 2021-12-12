@@ -1,11 +1,4 @@
-<h1 align="center">Selam 👋, Ben Wex</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wexsakinol&label=Profile%20views&color=0e75b6&style=flat" alt="wexsakinol" /> </p>
-
-
-- 🌱 Şuanda Öğrendiğim Diller: **Javascript, HTML, Pyhton**
-
-- 📫 E-Posta: **wexderler@gmail.com**
 
 ![Discord](https://discord.c99.nl/widget/theme-5/728161454288535604.png)<br><br> 
 ![Discord](https://discord.c99.nl/widget/theme-5/773265176597626950.png)<br><br> 
@@ -19,3 +12,30 @@
 
 
 
+
+<h2>About Me</h2>
+
+```js
+class Wex {
+    constructor(options) {
+        this.name = "Eray",
+        this.sex = "man",
+        this.length = "178",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "85",
+        this.age = "19",
+        this.discord.tag = "Wex#0515"
+    };
+}
+
+module.exports = Stark
+```
+# My Github Stats
+                                                  
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=starktwo&show_icons=true&hide_title=true&theme=starktwo">
+<img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=starktwo&color=dc143c">
+
+# My Social Media 
+
+[• Discord Accounts](https://discord.com/users/853011311328100411) | [• My Code Server](https://discord.gg/serendia) | [• Instagram](https://www.instagram.com/savassmeral)
