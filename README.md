@@ -1,7 +1,3 @@
-
-
-![Discord](https://discord.c99.nl/widget/theme-5/728161454288535604.png)<br><br> 
-
 <h2>Ben Kimim</h2>
 
 ```js
