@@ -5,12 +5,12 @@ class Wex {
     constructor(options) {
         this.name = "Eray",
         this.sex = "man",
-        this.length = "178",
+        this.length = "183",
         this.type = "human",
         this.job = "developer",
         this.weight = "85",
         this.age = "19",
-        this.discord.tag = "Wex#1000"
+        this.discord.tag = "Wex#0001"
     };
 }
 
