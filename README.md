@@ -17,4 +17,4 @@ class Wex {
 module.exports = Wex
 ```
 # My Social Media 
-[• Discord Accounts](https://discord.com/users/728161454288535604) | [• My Server](https://discord.gg/yokamq) | [• Instagram](https://www.instagram.com/wexcik)
+[• Discord Accounts](https://discord.com/users/728161454288535604) | [• My Server](https://discord.gg/ahbe) | [• Instagram](https://www.instagram.com/wexcik)
