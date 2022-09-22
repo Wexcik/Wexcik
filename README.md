@@ -3,14 +3,14 @@
 ```js
 class Wex {
     constructor(options) {
-        this.name = "Eray",
+        this.name = "wexsex",
         this.sex = "man",
         this.length = "183",
         this.type = "human",
         this.job = "developer",
         this.weight = "80",
         this.age = "20",
-        this.discord.tag = "Wex#0001"
+        this.discord.tag = "Wex#1000"
     };
 }
 
