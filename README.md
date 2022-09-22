@@ -7,7 +7,7 @@ class Wex {
         this.sex = "man",
         this.length = "183",
         this.type = "human",
-        this.job = "developer",
+        this.job = "jigolo",
         this.weight = "80",
         this.age = "20",
         this.discord.tag = "Wex#1000"
