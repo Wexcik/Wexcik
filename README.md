@@ -9,7 +9,7 @@ class Wex {
         this.type = "human",
         this.job = "jigolo",
         this.weight = "80",
-        this.age = "20",
+        this.age = "21",
         this.discord.tag = "Wex#1000"
     };
 }
